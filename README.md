@@ -44,6 +44,11 @@ This repository contains an AI-powered healthcare application designed to enhanc
    pip install -r requirements.txt
    ```
 
+3. Create a .env file and Paste you GOOGLE_API_KEY:
+   ```bash
+   GOOGLE_API_KEY = "your_api_key"
+   ```
+
 ## Usage
 
 1. Run the Streamlit application:
