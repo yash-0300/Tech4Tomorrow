@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+streamlit
+streamlit_option_menu
+streamlit_lottie
+python-dotenv
+google-generativeai
+langchain
+langchain-openai
+langchain-core
+langchain-community
+langchain-experimental
+langchain-huggingface
+langchain-text-splitters
